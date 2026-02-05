@@ -1,0 +1,160 @@
+{
+  "book_id": "african-independence-pastoral-freedom-constraint",
+  "title": "The Covenant of Dust",
+  "tagline": "A man fights for his own freedom on the land meant to liberate him.",
+  "target_words": 70000,
+  "actual_words": 73142,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Burden of Post-Colonial Promise",
+    "Freedom as a Personal Ecology",
+    "The Constraint of Bureaucratic Modernity",
+    "Rootedness vs. Progress"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Hill",
+      "words": 3045
+    },
+    {
+      "ch": 2,
+      "title": "Tent and Testament",
+      "words": 2900
+    },
+    {
+      "ch": 3,
+      "title": "The First Stone",
+      "words": 3100
+    },
+    {
+      "ch": 4,
+      "title": "The Neighbor's Fence",
+      "words": 2950
+    },
+    {
+      "ch": 5,
+      "title": "The Co-op's Ledger",
+      "words": 3200
+    },
+    {
+      "ch": 6,
+      "title": "Rain and Its Absence",
+      "words": 2850
+    },
+    {
+      "ch": 7,
+      "title": "The Goat Herd",
+      "words": 3100
+    },
+    {
+      "ch": 8,
+      "title": "Thornton's Inspection",
+      "words": 3050
+    },
+    {
+      "ch": 9,
+      "title": "The Nairobi Letter",
+      "words": 2950
+    },
+    {
+      "ch": 10,
+      "title": "The Fig Tree's Shadow",
+      "words": 3150
+    },
+    {
+      "ch": 11,
+      "title": "A Different Kind of Map",
+      "words": 3000
+    },
+    {
+      "ch": 12,
+      "title": "The Old Herder's Warning",
+      "words": 2900
+    },
+    {
+      "ch": 13,
+      "title": "Fire on the Boundary",
+      "words": 3300
+    },
+    {
+      "ch": 14,
+      "title": "The Ministry's Ultimatum",
+      "words": 3100
+    },
+    {
+      "ch": 15,
+      "title": "Roots in Rock",
+      "words": 2950
+    },
+    {
+      "ch": 16,
+      "title": "The First Harvest",
+      "words": 2850
+    },
+    {
+      "ch": 17,
+      "title": "Market Day Realities",
+      "words": 3200
+    },
+    {
+      "ch": 18,
+      "title": "A New Kind of Debt",
+      "words": 3050
+    },
+    {
+      "ch": 19,
+      "title": "The Season of Dust",
+      "words": 2950
+    },
+    {
+      "ch": 20,
+      "title": "The Unseen Water",
+      "words": 3150
+    },
+    {
+      "ch": 21,
+      "title": "Convergence at the Crest",
+      "words": 3400
+    },
+    {
+      "ch": 22,
+      "title": "What the Land Decides",
+      "words": 3100
+    },
+    {
+      "ch": 23,
+      "title": "The Measure of a Covenant",
+      "words": 3000
+    },
+    {
+      "ch": 24,
+      "title": "Not a Boundary, a Horizon",
+      "words": 2900
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter from the perspective of Joss Thornton, the District Officer, revealing his own constrained life and views on 'progress'.",
+      "Create a folk tale or parable told by an elder in the community that mirrors Samuel's struggle with the land and the state.",
+      "Draft a series of letters between Samuel and his late father, found after the story's end, that deepen their philosophical conflict.",
+      "Write a scene set five years after the novel's end, showing the state of Parcel 17 and who, if anyone, is living there."
+    ],
+    "technical": [
+      "Build an interactive map of Parcel 17, allowing users to explore Samuel's planned vs. actual land use, with soil data and crop yields.",
+      "Create a 'Constraint Calculator' that models the trade-offs Samuel faces between bureaucratic targets, ecological limits, and personal well-being."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Wangari Maathai",
+      "Wendell Berry",
+      "Frantz Fanon",
+      "Albert Camus"
+    ]
+  },
+  "cover_prompt": "A solitary man in worn, practical clothing strains against a heavy, archaic plow in a vast, sun-scorched field, his muscles taut with effort, yet the furrows he cuts are shallow and crooked over unyielding earth; the landscape is a conflicted pastoral of both promise and despair, where the distant silhouette of a gleaming, modern government complex rises like a mirage on the horizon, connected to the field by stark, straight lines of bureaucratic fencing and unused irrigation pipes, under a sky heavy with dust and the lingering haze of a burnt offering, in the atmospheric style of Lynette Yiadom-Boakye's evocative portraiture and the textured, burdened landscapes of William Kentridge, book cover framing, centered composition with a low, dramatic angle looking up at the man to emphasize his struggle against the vast sky, cinematic chiaroscuro lighting with a stark contrast between the harsh, golden-hour sunlight and deep, elongated shadows, using a palette of parched ochres, dusty umbers, the faded green of stubborn scrub, and the cold, distant blue of the modernist structure, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
