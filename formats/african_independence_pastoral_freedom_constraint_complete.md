@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The sun was a physical weight. It pressed down on the tin roof of the Land Rover, on the red dust road, on the back of Samuel’s neck where his shirt collar had wilted hours ago. He drove with one elbow cocked out the window, the air he pulled in hot and thick as broth. Beside him, on the passenger seat, a file folder sweated a dark circle into the leather. It held the deed, the surveyor’s map, the letters from the lawyer in Nairobi. The papers said this land was his. Samuel wasn’t sure he believed papers anymore.
@@ -109,6 +111,8 @@ He stood there for a long time, the tea gone cold in his mug. The vast, starry s
 He went into his tent, but sleep was slow to come. He lay on his blanket, listening. He heard the land breathing. And he began, haltingly, to learn its language.
 
 ***
+# Chapter 2
+
 ## **CHAPTER 2**
 
 The dawn came not with a colour, but with a sound: a single, piercing whistle from a golden-breasted starling, followed by a chorus of others, a cacophony of clicks and warbles that shattered the crystalline silence. Samuel emerged from the tent into air so cold and clean it felt like washing his lungs. The eastern sky was a pale, watery green, bleeding up into indigo. The fig tree was a stark black cut-out against it.
@@ -262,6 +266,8 @@ That night, the wind picked up, moaning through the rocks. The lamp flame gutter
 He was not just building a house. He was building a statement. And now, everyone was going to read it.
 
 ***
+# Chapter 3
+
 ## **CHAPTER 3**
 
 The photographer came at mid-morning, a jolly, sweating man named Patel who treated the whole affair as a grand safari. He directed Samuel to stand by the half-built wall, panga in hand, “looking towards the future.” He had Samuel pose with Kip and the other boys, who treated the camera with a mixture of terror and delight. He took pictures of the fig tree, the view, the seep of water by the wild olives.
